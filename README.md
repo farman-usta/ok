@@ -1,2 +1,2 @@
 # ok
-farman
+far
